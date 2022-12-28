@@ -1,0 +1,6 @@
+#Ignore the unwanted files
+.project
+.classpath
+
+#Ignore unwanted file in this directory
+/node-module/
