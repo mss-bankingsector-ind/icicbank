@@ -1,3 +1,2 @@
 This file is created for String related fuctions...
-Hello I created String file in master branch.
 Hello This file created for development branch.
